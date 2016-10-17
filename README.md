@@ -1,5 +1,5 @@
 # Stanford_Machine_Learning_Exercise
-Exercises for the Stanford  Machine Learning Online Course (MATLAB)
+Exercises for the Stanford  Machine Learning course from Coursera
 
 # Description
 These are the programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
@@ -14,5 +14,5 @@ These are the programming assignments from Coursera's Machine Learning course ta
 - K-means Clustering and Principal Component Analysis
 - Anomaly Detection and Recommender Systems
 
-# Link
+# Course Link
 [Machine Learning](https://class.coursera.org/ml "Machine Learning")
